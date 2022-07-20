@@ -10,7 +10,7 @@ export default function Layout() {
         <Outlet />
       </div>
       <div className="appnavbar">
-        <NavLink to="/home">
+        <NavLink to="/">
           <div className="Home">
             <IconButton className="ico" dark size="large">
               <Icon className="con" path={mdiHome} size={1.1} />
