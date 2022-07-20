@@ -1,0 +1,8 @@
+/\* /index.html 200
+
+# Redirects from what the browser requests to what we serve
+
+/ https://voicedexpenses.netlify.app
+/income https://voicedexpenses.netlify.app/income
+/history https://voicedexpenses.netlify.app/history
+/expense https://voicedexpenses.netlify.app/expense
