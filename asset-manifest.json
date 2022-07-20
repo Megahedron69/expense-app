@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Megahedron69.github.io/expense-app/static/css/main.c170cc70.css",
-    "main.js": "/Megahedron69.github.io/expense-app/static/js/main.3e0e0410.js",
-    "index.html": "/Megahedron69.github.io/expense-app/index.html",
-    "main.c170cc70.css.map": "/Megahedron69.github.io/expense-app/static/css/main.c170cc70.css.map",
-    "main.3e0e0410.js.map": "/Megahedron69.github.io/expense-app/static/js/main.3e0e0410.js.map"
+    "main.css": "/expense-app/static/css/main.c170cc70.css",
+    "main.js": "/expense-app/static/js/main.7fd58722.js",
+    "index.html": "/expense-app/index.html",
+    "main.c170cc70.css.map": "/expense-app/static/css/main.c170cc70.css.map",
+    "main.7fd58722.js.map": "/expense-app/static/js/main.7fd58722.js.map"
   },
   "entrypoints": [
     "static/css/main.c170cc70.css",
-    "static/js/main.3e0e0410.js"
+    "static/js/main.7fd58722.js"
   ]
 }
